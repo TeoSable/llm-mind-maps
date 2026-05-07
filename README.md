@@ -1,5 +1,5 @@
 # Mind Map Generation Using Large Language Models
-This project was made as the final project for the [ods.ai NLP course](https://ods.ai/tracks/nlp-course-spring-2026). For details, check out the [project report](https://github.com/TeoSable/llm-mind-maps/report/report.pdf).
+This project was made as the final project for the [ods.ai NLP course](https://ods.ai/tracks/nlp-course-spring-2026). For details, check out the [project report](https://github.com/TeoSable/llm-mind-maps/blob/main/report/report.pdf).
 
 ## Installation
 
